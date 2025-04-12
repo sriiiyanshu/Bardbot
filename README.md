@@ -3,7 +3,7 @@
 
 An elegant chatbot web app powered by **Gemini (Google Generative AI)** that responds in the style of **William Shakespeare** or **modern English** — dynamically adjusting tone based on user requests.
 
-![Screenshot](https://your-screenshot-link.png)
+![Screenshot](https://github.com/sriiiyanshu/Bardbot/blob/56450ea94e41cf6fa6441ebf37b165ec2f4a9c33/Screenshot.png)
 
 ---
 
